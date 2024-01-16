@@ -1,5 +1,5 @@
-# React Query - Issues
+# Exploring React Query
 
-1. Clonar repositorio
-2. Ejecutar ``` yarn install``` o ```npm install```
-3. Abrir el URL del proyecto
+React Query for elegant data fetching in React. This project focuses on
+implementing key React Query features like automatic caching, background
+updates, query invalidation, and UX improvements like loading/error state handling.
